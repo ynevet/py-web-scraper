@@ -62,4 +62,4 @@ Both files will contain the scraped data.
 
 ## Contributions and Issues
 
-Feel free to fork this repository and submit pull requests. If you encounter any issues or have suggestions, please open an issue in the repository..
+Feel free to fork this repository and submit pull requests. If you encounter any issues or have suggestions, please open an issue in the repository
